@@ -16,7 +16,7 @@ disease) between ages 30 and 70?
 | NCD mortality | Probability of dying from NCDs, ages 30-70 (SDG 3.4.1) |
 
 - Source: [world bank]
-- Years covered: [2000] to [2024]
+- Years covered: [2000] to [2020]
 - Final dataset: 644 country-year observations (both sexes combined)
 
 ## Methods
