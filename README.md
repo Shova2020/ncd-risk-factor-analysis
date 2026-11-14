@@ -15,7 +15,7 @@ disease) between ages 30 and 70?
 | Tobacco use | Prevalence of current tobacco use (% of adults) |
 | NCD mortality | Probability of dying from NCDs, ages 30-70 (SDG 3.4.1) |
 
-- Source: [world bank]
+- Source: world bank(World Development Indicators and human Capital Project )
 - Years covered: [2000] to [2020]
 - Final dataset: 644 country-year observations (both sexes combined)
 
